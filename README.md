@@ -41,3 +41,5 @@ Tools Used:-
 .Business Intelligence
 .Financial Data Analysis
 .Dashboard Design
+
+PREVIEW:- https://github.com/sampurnakumari1105-maker/stock-dashboard/blob/main/snapshot%20of%20dashboard.png
